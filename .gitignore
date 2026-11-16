@@ -1,0 +1,6 @@
+# Dolt databases live in the exercise folders, but their data never goes to
+# GitHub (it is shared through DoltHub instead). A Dolt database is a folder
+# holding a .dolt/ directory; ignoring that leaves nothing to commit.
+.dolt/
+.doltcfg/
+.sqlhistory

@@ -1,0 +1,61 @@
+sale_id,sale_date,store_id,store_name,city,opened_date,product_id,product_name,category,color,cost,price,quantity
+5001,2026-03-05,1,SoHo Flagship,New York,2018-03-15,11,Leather Crossbody Bag,Accessories,Cognac,48.00,145.00,1
+5002,2026-03-06,3,Hoboken,Hoboken,2023-05-20,6,Ribbed Knit Top,Tops,White,12.00,38.00,1
+5003,2026-03-08,1,SoHo Flagship,New York,2018-03-15,9,High Rise Wide Leg Jeans,Bottoms,Indigo,34.00,98.00,1
+5004,2026-03-08,2,Williamsburg,Brooklyn,2021-09-01,1,Linen Wrap Dress,Dresses,Ivory,42.00,128.00,1
+5005,2026-03-09,1,SoHo Flagship,New York,2018-03-15,2,Linen Wrap Dress,Dresses,Sage,42.00,128.00,1
+5006,2026-03-11,2,Williamsburg,Brooklyn,2021-09-01,9,High Rise Wide Leg Jeans,Bottoms,Indigo,34.00,98.00,1
+5007,2026-03-12,1,SoHo Flagship,New York,2018-03-15,7,Ribbed Knit Top,Tops,Black,12.00,38.00,2
+5008,2026-03-13,2,Williamsburg,Brooklyn,2021-09-01,12,Silk Scarf,Accessories,Floral,15.00,48.00,1
+5009,2026-03-15,3,Hoboken,Hoboken,2023-05-20,12,Silk Scarf,Accessories,Floral,15.00,48.00,2
+5010,2026-03-16,1,SoHo Flagship,New York,2018-03-15,1,Linen Wrap Dress,Dresses,Ivory,42.00,128.00,1
+5011,2026-03-17,1,SoHo Flagship,New York,2018-03-15,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5012,2026-03-18,1,SoHo Flagship,New York,2018-03-15,2,Linen Wrap Dress,Dresses,Sage,42.00,128.00,1
+5013,2026-03-18,1,SoHo Flagship,New York,2018-03-15,4,Cropped Denim Jacket,Outerwear,Light Wash,38.00,110.00,2
+5014,2026-03-18,2,Williamsburg,Brooklyn,2021-09-01,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5015,2026-03-18,2,Williamsburg,Brooklyn,2021-09-01,11,Leather Crossbody Bag,Accessories,Cognac,48.00,145.00,1
+5016,2026-03-19,2,Williamsburg,Brooklyn,2021-09-01,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5017,2026-03-19,2,Williamsburg,Brooklyn,2021-09-01,7,Ribbed Knit Top,Tops,Black,12.00,38.00,3
+5018,2026-03-20,1,SoHo Flagship,New York,2018-03-15,7,Ribbed Knit Top,Tops,Black,12.00,38.00,2
+5019,2026-03-21,2,Williamsburg,Brooklyn,2021-09-01,12,Silk Scarf,Accessories,Floral,15.00,48.00,1
+5020,2026-03-21,2,Williamsburg,Brooklyn,2021-09-01,6,Ribbed Knit Top,Tops,White,12.00,38.00,2
+5021,2026-03-22,1,SoHo Flagship,New York,2018-03-15,10,Pleated Midi Skirt,Bottoms,Navy,28.00,84.00,1
+5022,2026-03-23,3,Hoboken,Hoboken,2023-05-20,7,Ribbed Knit Top,Tops,Black,12.00,38.00,2
+5023,2026-03-25,1,SoHo Flagship,New York,2018-03-15,10,Pleated Midi Skirt,Bottoms,Navy,28.00,84.00,1
+5024,2026-03-26,1,SoHo Flagship,New York,2018-03-15,2,Linen Wrap Dress,Dresses,Sage,42.00,128.00,3
+5025,2026-03-27,2,Williamsburg,Brooklyn,2021-09-01,8,Oversized Poplin Shirt,Tops,Blue Stripe,22.00,68.00,1
+5026,2026-03-27,1,SoHo Flagship,New York,2018-03-15,3,Silk Slip Dress,Dresses,Black,65.00,185.00,2
+5027,2026-03-27,2,Williamsburg,Brooklyn,2021-09-01,12,Silk Scarf,Accessories,Floral,15.00,48.00,1
+5028,2026-03-27,1,SoHo Flagship,New York,2018-03-15,8,Oversized Poplin Shirt,Tops,Blue Stripe,22.00,68.00,1
+5029,2026-03-27,2,Williamsburg,Brooklyn,2021-09-01,8,Oversized Poplin Shirt,Tops,Blue Stripe,22.00,68.00,1
+5030,2026-03-30,2,Williamsburg,Brooklyn,2021-09-01,12,Silk Scarf,Accessories,Floral,15.00,48.00,1
+5031,2026-03-31,1,SoHo Flagship,New York,2018-03-15,9,High Rise Wide Leg Jeans,Bottoms,Indigo,34.00,98.00,3
+5032,2026-04-01,3,Hoboken,Hoboken,2023-05-20,11,Leather Crossbody Bag,Accessories,Cognac,48.00,145.00,2
+5033,2026-04-01,3,Hoboken,Hoboken,2023-05-20,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5034,2026-04-03,3,Hoboken,Hoboken,2023-05-20,1,Linen Wrap Dress,Dresses,Ivory,42.00,128.00,2
+5035,2026-04-04,1,SoHo Flagship,New York,2018-03-15,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5036,2026-04-04,2,Williamsburg,Brooklyn,2021-09-01,10,Pleated Midi Skirt,Bottoms,Navy,28.00,84.00,2
+5037,2026-04-05,2,Williamsburg,Brooklyn,2021-09-01,11,Leather Crossbody Bag,Accessories,Cognac,48.00,145.00,1
+5038,2026-04-05,1,SoHo Flagship,New York,2018-03-15,5,Wool Blend Coat,Outerwear,Camel,95.00,295.00,1
+5039,2026-04-05,2,Williamsburg,Brooklyn,2021-09-01,9,High Rise Wide Leg Jeans,Bottoms,Indigo,34.00,98.00,1
+5040,2026-04-09,3,Hoboken,Hoboken,2023-05-20,10,Pleated Midi Skirt,Bottoms,Navy,28.00,84.00,2
+5041,2026-04-10,1,SoHo Flagship,New York,2018-03-15,8,Oversized Poplin Shirt,Tops,Blue Stripe,22.00,68.00,1
+5042,2026-04-11,1,SoHo Flagship,New York,2018-03-15,4,Cropped Denim Jacket,Outerwear,Light Wash,38.00,110.00,1
+5043,2026-04-12,2,Williamsburg,Brooklyn,2021-09-01,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5044,2026-04-14,1,SoHo Flagship,New York,2018-03-15,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5045,2026-04-15,3,Hoboken,Hoboken,2023-05-20,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5046,2026-04-17,2,Williamsburg,Brooklyn,2021-09-01,4,Cropped Denim Jacket,Outerwear,Light Wash,38.00,110.00,1
+5047,2026-04-18,1,SoHo Flagship,New York,2018-03-15,5,Wool Blend Coat,Outerwear,Camel,95.00,295.00,1
+5048,2026-04-18,1,SoHo Flagship,New York,2018-03-15,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5049,2026-04-18,2,Williamsburg,Brooklyn,2021-09-01,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5050,2026-04-19,3,Hoboken,Hoboken,2023-05-20,2,Linen Wrap Dress,Dresses,Sage,42.00,128.00,1
+5051,2026-04-19,2,Williamsburg,Brooklyn,2021-09-01,10,Pleated Midi Skirt,Bottoms,Navy,28.00,84.00,1
+5052,2026-04-20,2,Williamsburg,Brooklyn,2021-09-01,12,Silk Scarf,Accessories,Floral,15.00,48.00,1
+5053,2026-04-22,1,SoHo Flagship,New York,2018-03-15,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5054,2026-04-22,2,Williamsburg,Brooklyn,2021-09-01,8,Oversized Poplin Shirt,Tops,Blue Stripe,22.00,68.00,1
+5055,2026-04-22,2,Williamsburg,Brooklyn,2021-09-01,6,Ribbed Knit Top,Tops,White,12.00,38.00,1
+5056,2026-04-24,3,Hoboken,Hoboken,2023-05-20,4,Cropped Denim Jacket,Outerwear,Light Wash,38.00,110.00,1
+5057,2026-04-25,1,SoHo Flagship,New York,2018-03-15,5,Wool Blend Coat,Outerwear,Camel,95.00,295.00,1
+5058,2026-04-29,1,SoHo Flagship,New York,2018-03-15,9,High Rise Wide Leg Jeans,Bottoms,Indigo,34.00,98.00,2
+5059,2026-04-29,3,Hoboken,Hoboken,2023-05-20,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
+5060,2026-04-29,2,Williamsburg,Brooklyn,2021-09-01,7,Ribbed Knit Top,Tops,Black,12.00,38.00,1
